@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1>Hi, I'm Laziz! <br/> 
 
-<!--
-**LazizAsamov/LazizAsamov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <p><i>Bioinformatician and Molecualr Biology enthusiast</i></p></h1>
 
-Here are some ideas to get you started:
+<h2>👨‍💻 Bioinformatics Projects:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <h3><b> Web Applications</b></h3>
+
+  - [Borrelia Borgorferi Transcirptome analysis web application]()
+- <h3><b> Data Analysis</b></h3>
+
+  - <b>Python</b>
+  - <b>R</b>
+- <h3>Next Generation Sequencing Analysis Projects</h3>
+
+<h2>🔬 Microscopy imgaing analysis</h2>
+
+  - <a href = ''>Imaris models and analysis</a>
+  - [ImageJ analysis]()
+
+<h2>A bit about wet lab experience</h2>
