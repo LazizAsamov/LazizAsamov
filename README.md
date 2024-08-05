@@ -1,6 +1,6 @@
 <h1>Hi, I'm Laziz! <br/> 
 
-  <p><i>Bioinformatician and Molecualr Biology enthusiast</i></p></h1>
+  <p><i>?</i></p></h1>
 
 <h2>👨‍💻 Bioinformatics Projects:</h2>
 
