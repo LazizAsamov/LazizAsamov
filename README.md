@@ -11,7 +11,7 @@
 
 - <b>Python</b>
 
-    - [Brain Tumor Data Analysis](https://github.com/LazizAsamov/Borrelia-Burgdorferi-Transcriptome-Web-App)
+    - [Brain Tumor Data Analysis](https://github.com/LazizAsamov/Brain-Tumor-Data-Analysis/tree/main)
 
 
 <h2>🔬 Microscopy imgaing analysis</h2>
