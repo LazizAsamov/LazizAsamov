@@ -5,7 +5,8 @@
 <h2>👨‍💻 Bioinformatics Projects:</h2>
 
 <h3><b> Web Applications</b></h3>
-
+  
+  - [NGS-Analyzer Web App](https://github.com/LazizAsamov/Borrelia-Burgdorferi-Transcriptome-Web-App)
   - [Borrelia Borgdorferi Transcirptome Web App](https://github.com/LazizAsamov/Borrelia-Burgdorferi-Transcriptome-Web-App)
 <h3><b> Data Analysis</b></h3>
 
