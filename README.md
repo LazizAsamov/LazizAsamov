@@ -6,7 +6,7 @@
 
 <h3><b> Web Applications</b></h3>
   
-  - [NGS-Analyzer Web App](https://github.com/LazizAsamov/Borrelia-Burgdorferi-Transcriptome-Web-App)
+  - [NGS-Analyzer Web App](https://github.com/LazizAsamov/NGS-Analyzer)
   - [Borrelia Borgdorferi Transcirptome Web App](https://github.com/LazizAsamov/Borrelia-Burgdorferi-Transcriptome-Web-App)
 <h3><b> Data Analysis</b></h3>
 
