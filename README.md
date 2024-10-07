@@ -1,5 +1,5 @@
 <h1>Hi, I'm Laziz!<br/> 
-  <p><i>Bioinformatician and Research Enthusiast</i></p>
+  <p><i>Research Enthusiast</i></p>
 </h1>
 
 <h2>👨‍💻 Bioinformatics Projects:</h2>
